@@ -61,4 +61,4 @@
 
 ---
 
-장별 점검·오늘 한 일 로그는 [스스로 점검](appendix_self_check.md)을, 학원·사내 진행은 [강사 노트](appendix_for_instructor.md)를 보세요.
+장별 점검·오늘 한 일 로그는 [스스로 점검](appendix_self_check.md)을 보세요.

@@ -47,7 +47,6 @@ npm start
 | `/lesson/ch1/1-1` 등 | 개별 레슨 |
 | `/lesson/appendix/stuck` | 부록 · 막히면 여기 |
 | `/lesson/appendix/self-check` | 부록 · 스스로 점검 |
-| `/lesson/appendix/for-instructor` | 부록 · 강사 노트 |
 
 ## 스크립트
 
