@@ -4,7 +4,7 @@
 
 공식: [Getting started with ChatGPT Work](https://learn.chatgpt.com/training/walkthroughs/getting-started) · [Use ChatGPT](https://learn.chatgpt.com/docs/use-chatgpt.md)
 
-Work은 「더 똑똑한 Chat」이 아닙니다. **여러 단계·바깥 자료·완성된 결과물**이 필요할 때 씁니다. 문서·스프레드시트·발표 자료처럼 **열어 보고 고칠 수 있는 결과**를 목표로 합니다.
+Work은 「더 똑똑한 Chat」이 아닙니다. **여러 단계·바깥 자료·완성된 결과물**이 필요할 때 씁니다. 문서·스프레드시트·발표 자료처럼 **열어 보고 고칠 수 있는 결과**를 받습니다.
 
 2장에서 Chat으로 묻고 고치는 법을 익힌 분이, 여기서는 **판단(Chat vs Work)**과 **완성본 검수**로 한 걸음 갑니다.
 
