@@ -121,7 +121,7 @@ export function getLessonOrder(): LessonMeta[] {
     lesson({
       slug: "ch5",
       chapterId: "ch5",
-      chapterTitle: "5장 · Codex · 회고",
+      chapterTitle: "5장 · Codex 맛보기 · 회고",
       kind: "chapter",
       filePath: "ch5/index.md",
       href: "/lesson/ch5",
@@ -130,7 +130,7 @@ export function getLessonOrder(): LessonMeta[] {
       lesson({
         slug: `ch5/${id}`,
         chapterId: "ch5",
-        chapterTitle: "5장 · Codex · 회고",
+        chapterTitle: "5장 · Codex 맛보기 · 회고",
         kind: "lesson",
         filePath: `ch5/${id}.md`,
         href: `/lesson/ch5/${id}`,
