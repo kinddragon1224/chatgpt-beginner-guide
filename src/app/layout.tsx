@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "왕초보를 위한 ChatGPT 사용 설명서",
+    default: "왕초보를 위한 ChatGPT 사용 안내",
     template: "%s · 왕초보 ChatGPT",
   },
   description:

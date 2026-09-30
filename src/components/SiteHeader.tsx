@@ -6,7 +6,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-3xl items-center justify-between gap-3 px-4 py-3">
         <Link href="/" className="min-w-0">
           <span className="block truncate text-sm font-bold text-slate-900 sm:text-base">
-            왕초보를 위한 ChatGPT 사용 설명서
+            왕초보를 위한 ChatGPT 사용 안내
           </span>
           <span className="block truncate text-xs text-slate-500">
             더루멘 김선용 대표 with 그록봇
